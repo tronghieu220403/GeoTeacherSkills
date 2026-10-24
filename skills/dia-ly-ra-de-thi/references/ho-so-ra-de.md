@@ -6,6 +6,7 @@ Dùng cấu trúc sau để lưu trạng thái cho một kỳ thi. Lưu hồ sơ
 
 - Mã kỳ thi; mục đích; lớp; bộ sách; phạm vi; đối tượng.
 - Tài liệu nguồn, phiên bản, trang/mục liên quan và điều kiện sử dụng.
+- Tệp tìm được làm mẫu đề/ma trận/barem, phần dùng để tham khảo cách trình bày/thói quen ra đề và phần được giáo viên chỉ định làm căn cứ; lý do chọn một hoặc nhiều tệp, không gán duyệt từ tên tệp.
 - Thời lượng, tổng điểm, dạng câu, công cụ được phép, số mã đề.
 - Sản phẩm yêu cầu, mẫu trình bày và vị trí lưu.
 

@@ -10,6 +10,8 @@ Quy trình gốc viết mới cho GeoTeacherSkills, bổ sung phương pháp đ�
 ## 1. Đọc đầu vào và xác định loại công việc
 
 - Xác định đang tạo mới, chuyển giáo án thành slide, sửa nội dung, cải thiện thiết kế hoặc tuân theo PowerPoint mẫu. Đọc tệp gốc và mẫu trước khi chọn cách làm.
+- Nếu chưa có mẫu chỉ định, tìm theo tên tệp trong thư mục công việc và kho tài liệu đã biết, mở rộng dần trong phạm vi truy cập khi cần; ưu tiên PowerPoint cùng lớp/chủ đề hoặc giáo viên xác định thường dùng, thử từ khóa có dấu/không dấu. Chọn một vài ứng viên để đọc slide và ghi chú, xem bố cục bằng công cụ trình chiếu; không suy phong cách chỉ từ tên tệp hay ngày sửa.
+- Có thể dùng một bộ cho phông/bố cục và một bộ khác cho nhịp hoạt động, cách đặt câu hỏi/ghi chú. Ghi rõ phần lấy từ từng tệp, giữ mục tiêu và dữ kiện của bài hiện tại; tệp của người khác hoặc tải về không tự là sở thích của giáo viên. Nếu không có mẫu phù hợp, tiếp tục lựa chọn thiết kế theo skill Presentations, không dừng để đòi giáo viên chuẩn bị mẫu.
 - Lấy lớp, phân môn, chủ đề, bộ sách/tài liệu, mục tiêu, thời lượng và điều kiện trình chiếu từ ngữ cảnh. Chỉ hỏi phần quan trọng còn thiếu; không yêu cầu giáo viên khai lại dữ liệu đã có trong giáo án.
 - Với bài tạo từ giáo án, dùng phiên bản giáo án được chỉ định làm căn cứ về mục tiêu, nội dung, hoạt động và số liệu. Nếu phát hiện sai hoặc mâu thuẫn, trình vấn đề và đề xuất; không âm thầm thay đổi kiến thức.
 - Với yêu cầu chỉ có chủ đề, xác định mục tiêu và chuỗi hoạt động tối thiểu để xây bài trình chiếu; không mặc định phải tạo thêm một giáo án Word. Nếu cả hai sản phẩm được yêu cầu, phối hợp `dia-ly-giao-an` khi có.

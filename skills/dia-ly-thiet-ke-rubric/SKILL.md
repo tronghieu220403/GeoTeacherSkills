@@ -11,6 +11,8 @@ license: CC-BY-SA-4.0; see LICENSE.education and references/nguon.md.
 ## Xác định công việc và thẩm quyền
 
 - Đọc nhiệm vụ, mục tiêu, lớp, sản phẩm cần đánh giá, tiêu chí mẫu và giới hạn đã có. Làm rõ đánh giá cá nhân/nhóm, quá trình/sản phẩm, tự đánh giá/đánh giá đồng đẳng/cho điểm và thời điểm công bố tiêu chí.
+- Khi chưa có mẫu, tìm tên tệp theo lớp, chủ đề và rubric/tiêu chí/thực hành/dự án trong thư mục công việc/kho đã biết, mở rộng dần trong phạm vi truy cập khi cần. Đọc một vài ứng viên để hiểu ngôn ngữ phản hồi và cách giáo viên dùng bảng; ghi phần tham khảo từ từng tệp. Không tìm được thì tự đề xuất bảng, không bắt cung cấp mẫu.
+- Rubric tìm thấy chưa tự là barem được duyệt cho nhiệm vụ mới. Chọn lại tiêu chí, mô tả mức, trọng số và minh chứng theo mục tiêu hiện tại; không áp một số mức hoặc thang điểm chỉ vì mẫu có sẵn. Nếu là rubric đang áp dụng, giữ ranh giới sửa/duyệt và chấm lại ở dưới.
 - Hỏi theo nhóm vấn đề, đưa ví dụ để giáo viên lựa chọn. Nếu đã có barem được duyệt, chỉ phân tích và lập đề xuất sửa riêng khi được yêu cầu; không thay căn cứ của một lần chấm đang diễn ra.
 - Nếu công việc thuộc bộ đề đang xây, giữ mã câu, phiên bản và các cổng duyệt của `dia-ly-ra-de-thi`; không mở lại một cuộc phỏng vấn độc lập hoặc thay ma trận đã chốt.
 - Yêu cầu chỉ chấm bài dùng quy trình chấm theo barem. Yêu cầu chỉ phản biện một thiết kế đánh giá dùng `dia-ly-phan-bien-danh-gia` nếu có; không tự mở rộng thành xây rubric mới.

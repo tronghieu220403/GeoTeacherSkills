@@ -1,6 +1,6 @@
 # Khung nội dung dùng chung cho bài dạy
 
-Đây là khung làm việc khi chưa có mẫu tương đương. Mẫu trường được ưu tiên. Lưu hồ sơ cùng công việc của giáo viên, không ghi dữ liệu bài dạy vào thư mục cài skill.
+Đây là khung làm việc khi chưa tìm được mẫu tương đương. Mẫu trường được chỉ định hoặc xác định còn áp dụng được ưu tiên; tệp cũ tìm thấy là tham khảo. Lưu hồ sơ cùng công việc của giáo viên, không ghi dữ liệu bài dạy vào thư mục cài skill.
 
 ## Thông tin và căn cứ
 
@@ -8,6 +8,7 @@
 - Mục tiêu/yêu cầu cần đạt và nơi đối chiếu; phân biệt trích nguồn với mục tiêu do người soạn đề xuất.
 - Kiến thức tiền đề, điều kiện lớp học đã biết và giả định còn cần xác minh.
 - Sản phẩm yêu cầu; tên/phiên bản mẫu trường; lựa chọn và chỉnh sửa giáo viên đã thống nhất.
+- Tệp đã đọc làm mẫu/bối cảnh, phần lấy từ mỗi tệp và lý do chọn; sở thích giáo viên đã xác nhận, lựa chọn suy ra tạm hoặc tự dựng khi thiếu mẫu. Tái dùng ghi nhận này khi phối hợp slide/phiếu.
 
 ## Liên kết mục tiêu với hoạt động
 

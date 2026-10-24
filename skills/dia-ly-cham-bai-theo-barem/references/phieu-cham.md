@@ -8,6 +8,7 @@ Dùng mẫu sau hoặc định dạng tương đương. Lưu với hồ sơ kỳ
 - Mã lô, danh sách bài trong lô và phạm vi áp dụng của từng phụ lục/quyết định; tách bài của yêu cầu khác.
 - Tham chiếu/phiên bản đề, barem, phụ lục và tệp bài làm; dấu vân tay tệp nếu có.
 - Căn cứ giáo viên chỉ định dùng barem, mẫu neo và phê duyệt hiệu chuẩn nếu có.
+- Mẫu bảng điểm/phiếu chấm đã đọc, phần bố cục hoặc công thức được dùng sau kiểm tra; tách khỏi nguồn barem có thẩm quyền. Không chuyển dữ liệu cá nhân/điểm lịch sử từ mẫu sang lô hiện tại.
 - Số trang đã nhận, phần đọc được, thiếu trang hoặc phần chưa xác minh.
 - Quy tắc cộng, điểm trần, làm tròn và trạng thái phê duyệt kết quả.
 

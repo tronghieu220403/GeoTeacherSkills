@@ -11,9 +11,11 @@ Bản điều chỉnh có chọn lọc từ `k12-lesson-plan-creation` của Lea
 ## 1. Đọc căn cứ và làm rõ phần quan trọng
 
 - Đọc giáo án mẫu, tài liệu bài học và quyết định đã có trước khi hỏi. Xác định lớp, tên bài/chủ đề, bộ sách hoặc tài liệu, yêu cầu cần đạt, số tiết/thời lượng và sản phẩm giáo viên muốn.
+- Không yêu cầu có sẵn mẫu. Nếu chưa được chỉ mẫu, tìm theo tên tệp trong thư mục công việc/tài liệu đã biết, mở rộng dần trong phạm vi truy cập khi cần; lọc lớp, chủ đề và giáo án/KHBD, thử tên có dấu/không dấu. Đọc một vài ứng viên phù hợp bằng công cụ tài liệu, xem bố cục trước khi chọn; không lấy tệp mới sửa nhất làm mẫu mặc định hoặc đọc toàn bộ kho.
+- Có thể kết hợp mẫu trường cho cấu trúc với giáo án giáo viên từng dùng cho mức chi tiết, lời giao việc và cách tổ chức. Ghi tệp nào cung cấp phần nào, phân biệt sở thích đã xác nhận với suy luận tạm; không nhập nguyên mục tiêu, số liệu, thời lượng hoặc tên lớp của bài cũ. Không tìm được mẫu thì tự dựng bố cục phù hợp và tiếp tục, chỉ hỏi phần thiếu ảnh hưởng nội dung/cách dạy.
 - Với Địa lý trong môn tích hợp, xác định đúng phân môn và phạm vi. Không tự viết thêm nội dung Lịch sử hay phần khác của môn học.
 - Hỏi khi thiếu thông tin làm thay đổi đáng kể kiến thức hoặc cách tổ chức. Có thể tự chọn bố cục nhỏ và ghi giả định về điều kiện lớp học. Không tự gắn số bài, số trang, mã chuẩn hoặc thời lượng một tiết khi chưa có căn cứ.
-- Mẫu của trường quyết định cấu trúc trình bày; tài liệu chương trình và sách chỉ định quyết định phạm vi kiến thức. Nếu mâu thuẫn, chỉ rõ và hỏi phần ảnh hưởng. Không dùng chuẩn Mỹ hoặc khung C3 thay yêu cầu cần đạt của Việt Nam.
+- Mẫu trường được chỉ định hoặc đã xác định còn áp dụng quyết định cấu trúc trình bày; tài liệu chương trình và sách chỉ định quyết định phạm vi kiến thức. Một tệp cũ tìm thấy chỉ là ứng viên, không tự chứng minh yêu cầu hiện hành. Nếu mâu thuẫn, chỉ rõ và hỏi phần ảnh hưởng. Không dùng chuẩn Mỹ hoặc khung C3 thay yêu cầu cần đạt của Việt Nam.
 - Khi chưa có căn cứ để đối chiếu chương trình, chỉ gọi sản phẩm là bản dự thảo theo chủ đề; trình bày phần cần giáo viên xác minh trong hồ sơ bàn giao, không tuyên bố đã chuẩn hóa.
 - Nếu giáo viên muốn thảo luận hoặc xem khung trước, đưa mục tiêu, chuỗi hoạt động, thời gian và ví dụ nhiệm vụ rồi tiếp thu chỉnh sửa trước khi xuất trọn bộ. Nếu yêu cầu đã rõ và muốn sản phẩm hoàn chỉnh, thực hiện luôn; không bắt duyệt từng hoạt động.
 
@@ -22,7 +24,7 @@ Bản điều chỉnh có chọn lọc từ `k12-lesson-plan-creation` của Lea
 - Đọc [references/khung-bai-day.md](references/khung-bai-day.md) để ghi nội dung dùng chung, hoạt động, nguồn học liệu và các liên kết giữa sản phẩm. Dùng định dạng ghi chép phù hợp, không bắt giáo viên thao tác với dữ liệu kỹ thuật.
 - Chuyển yêu cầu cần đạt thành hành vi có thể quan sát: xác định vị trí, đọc bản đồ, nhận xét phân bố, tính toán, so sánh, giải thích quan hệ địa lý hoặc vận dụng vào tình huống.
 - Mỗi mục tiêu có nhiệm vụ và bằng chứng kiểm tra tương ứng. Không dùng lời ghi “thảo luận nhóm” hoặc “phát triển năng lực” thay cho câu hỏi, dữ kiện và sản phẩm học sinh thực sự làm.
-- Theo mẫu đã cung cấp. Khi chưa có mẫu, tổ chức khởi động, hình thành kiến thức, luyện tập và vận dụng theo chức năng bài học; có thể ghép hoặc điều chỉnh hoạt động theo nội dung, không áp một công thức cứng cho mọi tiết.
+- Theo mẫu đã chọn hoặc giáo viên cung cấp. Khi chưa tìm được mẫu phù hợp, tổ chức khởi động, hình thành kiến thức, luyện tập và vận dụng theo chức năng bài học; có thể ghép hoặc điều chỉnh hoạt động theo nội dung, không áp một công thức cứng cho mọi tiết.
 - Mỗi hoạt động ghi mục tiêu, thời gian, học liệu, yêu cầu học sinh, cách tổ chức, sản phẩm/đáp án dự kiến và cách giáo viên kiểm tra, hỗ trợ. Nội dung kiến thức đủ để triển khai; không chỉ có tiêu đề hoặc yêu cầu giáo viên tự tìm câu hỏi sau.
 - Tổng thời gian khớp thời lượng đã xác định, gồm giao nhiệm vụ, phát phiếu, chuyển nhóm và báo cáo. Với bài nhiều tiết, phân bổ rõ từng tiết; tách phần ngoài giờ để không che việc quá tải.
 - Dự kiến sai lầm cụ thể, bằng chứng để nhận ra và cách hỗ trợ: nhầm nguyên nhân với biểu hiện, đọc sai chú giải, so sánh khác đơn vị hoặc nhầm tốc độ tăng với chỉ số phát triển khi có liên quan.

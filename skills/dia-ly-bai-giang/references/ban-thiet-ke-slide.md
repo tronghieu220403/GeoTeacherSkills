@@ -7,6 +7,7 @@ Dùng hồ sơ này hoặc cấu trúc tương đương để giữ nhất quán
 - Tên bài, lớp, tài liệu/sách, mục tiêu, thời lượng và phạm vi kiến thức.
 - Giáo án hoặc PowerPoint nguồn và phiên bản; nội dung phải giữ, nội dung được thay đổi.
 - Mẫu trình bày, tỷ lệ khung hình, điều kiện trình chiếu, khả năng dùng Internet.
+- Tệp ứng viên đã đọc/xem, phiên bản và vai trò: bố cục/phông, mạch hoạt động, câu hỏi/ghi chú hoặc căn cứ nội dung. Ghi phần kế thừa từ từng mẫu, lựa chọn đã được giáo viên xác nhận và suy luận tạm; dùng lại hồ sơ giáo án nếu đã có.
 - Sản phẩm yêu cầu: bản giáo viên, bản học sinh, ghi chú, PDF hoặc loại khác nếu có.
 - Giả định, lựa chọn đã được xác nhận và vấn đề chưa chốt.
 

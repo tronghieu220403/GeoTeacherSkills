@@ -11,6 +11,8 @@ Sáu skill dành cho giáo viên Địa lý Việt Nam:
 
 [AGENTS.md](AGENTS.md) chứa hướng dẫn chung và cách phối hợp sáu skill. Phần cốt lõi về rubric/phản biện được tích hợp trong quy trình hiện có; hướng dẫn chuyên sâu nằm trong hai skill riêng, chỉ đọc khi cần. Chấm bài không tự sửa barem vì phát hiện vấn đề thiết kế. Chế độ chuẩn bị lên lớp không tự bật sau mỗi lần tạo giáo án/PowerPoint.
 
+Không cần biết trước khuôn mẫu: khi thiếu mẫu, Codex tìm tên tệp trong các thư mục công việc/tài liệu khả dụng, đọc một vài ứng viên phù hợp và có thể kết hợp cấu trúc, cách dạy, thiết kế hoặc bảng biểu từ nhiều tệp để phù hợp giáo viên. Mẫu cũ không tự quyết định kiến thức, quy định hay barem hiện tại; căn cứ chấm vẫn phải được giáo viên chỉ định. Không có mẫu phù hợp thì tự dựng bố cục và tiếp tục phần đủ căn cứ.
+
 Mỗi thư mục trong `skills/` là một gói độc lập. Các tài liệu trong `references/` được dùng khi thực hiện quy trình tương ứng. Kho là bản nguồn; bản cài cá nhân là bản sao trong thư mục skill của Codex, cần được đồng bộ khi cập nhật. Không có đề thi, barem hoặc bài học sinh thực tế trong kho này.
 
 Một số skill có liên kết tùy tình huống sang module của skill cùng bộ; cài cả sáu skill để dùng đủ các liên kết chuyên sâu. Các gói giữ nguyên tắc cốt lõi và thông tin nguồn cần thiết tại chỗ.

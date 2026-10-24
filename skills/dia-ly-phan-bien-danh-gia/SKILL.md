@@ -11,6 +11,8 @@ license: CC-BY-SA-4.0; see LICENSE.education and references/nguon.md.
 ## 1. Xác định phạm vi phản biện
 
 - Đọc phiên bản đề/nhiệm vụ, mục tiêu, ma trận nếu có, đáp án/rubric và điều kiện tổ chức. Làm rõ lớp, phạm vi đã học, mục đích đánh giá và quyết định nào sẽ dựa vào kết quả.
+- Nếu tài liệu liên quan chưa được chỉ rõ, tìm tên theo lớp, chủ đề, kỳ/mã đề và ma trận/barem/rubric trong thư mục công việc/kho đã biết, mở rộng dần trong phạm vi truy cập khi cần; đọc một vài ứng viên đúng ngữ cảnh. Giữ rõ tệp là đối tượng phản biện, tài liệu bối cảnh hay mẫu trình bày; không tự thay đối tượng bằng một tệp chỉ vì mới hơn. Ghi nguồn đã đối chiếu và chỉ hỏi phần phiên bản/căn cứ còn mơ hồ.
+- Bài cũ hoặc mẫu trường tìm thấy giúp hiểu thói quen và bối cảnh, không tự trở thành tiêu chuẩn để kết luận đúng/sai cho nhiệm vụ hiện tại. Không có mẫu báo cáo thì tự chọn bố cục rõ, vẫn rà theo mục tiêu và cách dùng điểm thực có.
 - Nếu thiếu mục tiêu hoặc cách chấm, hỏi phần cần thiết hoặc chỉ phân tích phần đủ dữ liệu và ghi giới hạn. Không tự dựng mục tiêu rồi kết luận đề lệch mục tiêu đó.
 - Xác định giáo viên yêu cầu nhận xét, đề xuất sửa hay thực hiện sửa. Mặc định giữ nguyên tài liệu nguồn và đưa đề xuất tách biệt. Đề đã duyệt vẫn có thể được rà soát, nhưng báo cáo không tự thay thế phê duyệt/barem của kỳ thi.
 
