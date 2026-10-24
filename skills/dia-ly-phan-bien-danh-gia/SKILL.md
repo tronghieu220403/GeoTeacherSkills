@@ -21,6 +21,7 @@ license: CC-BY-SA-4.0; see LICENSE.education and references/nguon.md.
 - Nhiệm vụ có thực sự đòi hỏi thao tác kiến thức/kỹ năng cần đo, hay điểm bị chi phối bởi yếu tố ngoài mục tiêu.
 - Nội dung và mức tư duy có đủ bao phủ mục tiêu trong giới hạn kỳ đánh giá, có phần bị bỏ sót hoặc vượt phạm vi.
 - Đáp án/rubric, điều kiện làm bài và quy tắc có hỗ trợ chấm nhất quán; phân biệt rủi ro dự kiến với độ tin cậy đã đo bằng bài thật.
+- Với mức điểm và đáp án thay thế, thử phản ví dụ theo khung tham chiếu: không có minh chứng đúng, cách viết ngắn/dài cùng nội dung và số liệu tổng so với từng thành phần. Kiểm tra yêu cầu trong câu lệnh khớp điều kiện cho điểm.
 - Cách đánh giá khuyến khích kiểu học nào, tạo rào cản tiếp cận nào và có thể dẫn đến diễn giải sai nào về học sinh.
 - Bài có cần chứng minh hiểu biết, áp dụng và lập luận theo mục tiêu, hay có thể đạt điểm bằng sao chép hoặc làm hình thức. Không hạ giá trị bài kiểm tra trí nhớ nếu nhớ kiến thức chính là mục tiêu phù hợp đã chốt.
 

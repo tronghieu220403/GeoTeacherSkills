@@ -33,6 +33,13 @@ Ví dụ cho tiêu chí liên kết số liệu với nhận xét:
 
 Với mỗi ô, kiểm tra: có thể chỉ vào bằng chứng nào; ranh giới với mức trên/dưới là gì; một bài có thể bị hiểu thuộc hai mức không. Nhãn mức được giữ theo mẫu trường nhưng không thay nội dung mô tả.
 
+Thử phản ví dụ cho mô tả và đáp án tương đương:
+
+- Bài toàn dữ kiện sai không được lọt vào mức có điểm chỉ vì mô tả ghi “hoặc còn nhầm đại lượng”. Phần đã đọc nhưng không có minh chứng đúng khác với bài chưa quan sát được.
+- Nếu mức 1 cho “nhận xét đúng nhưng chưa có dẫn chứng”, mức 0 không thể chỉ ghi “không có mối nối đúng”. Viết rõ 0 là chưa đạt bất kỳ điều kiện điểm dương nào và thử chính bài chỉ có nhận xét đúng. Với tiêu chí riêng chỉ đo mối nối, nhận xét trần có thể là 0 nếu nó được đánh giá ở tiêu chí khác; không áp một đáp án điểm cho mọi loại rubric.
+- Hai câu cùng cho thấy một quan hệ nhận xét–số liệu phải được xét cùng tiêu chuẩn; thêm “vì vậy nhận xét có căn cứ” không tự nâng mức. Muốn phân biệt mức, mẫu cao hơn phải có thêm thao tác hoặc minh chứng thực chất theo mục tiêu.
+- Gộp số liệu phải giữ đúng độ bao phủ cần đo. “CN và dịch vụ đều tăng” không tương đương với “tổng CN + dịch vụ tăng”: tổng có thể tăng khi một thành phần giảm. Nếu chấp nhận tổng là bằng chứng đủ, phải thống nhất lại yêu cầu tiêu chí; không gọi đó là diễn đạt tương đương của yêu cầu từng ngành.
+
 ## 4. Chuyển mức thành cách chấm rõ ràng
 
 - Thống nhất tập điểm hoặc cách quy đổi cho từng mức, trọng số và tổng điểm; không suy ra quy đổi từ số mức.

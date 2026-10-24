@@ -48,6 +48,7 @@ Bản điều chỉnh có chọn lọc từ `k12-lesson-plan-creation` của Lea
 ## 4. Đồng bộ, xuất và bàn giao
 
 - Giữ một bản nội dung chung cho mục tiêu, dữ kiện, câu hỏi, thuật ngữ, đáp án và nguồn. Khi xuất giáo án, phiếu hoặc phối hợp PowerPoint, tái sử dụng nội dung đó để tránh lệch số liệu và câu hỏi.
+- Khi đổi dữ kiện, ghi ngắn giá trị cũ → mới và nơi đã rà trong giáo án, phiếu, slide/ghi chú được giao; tính lại cả đáp án và câu trả lời giả lập/dấu hiệu lỗi phụ thuộc. Không chỉ thay bảng rồi giữ nhận xét hoặc mẫu số cũ.
 - Chỉ tạo sản phẩm đã yêu cầu hoặc thực sự cần để thực hiện bài học đã nhận làm; không mặc định kèm PowerPoint, đề thi, bảng quan sát riêng hoặc bản PDF nếu không cần.
 - Khi tạo/chỉnh Word, dùng skill Documents có sẵn và thực hiện quy trình dựng trang, kiểm tra từng trang của skill đó. PDF hoặc định dạng khác được tạo theo yêu cầu và công cụ thực có. Không giả tệp Word bằng cách đổi đuôi tệp văn bản.
 - Kiểm tra mục tiêu ↔ hoạt động ↔ đánh giá; tổng thời gian; dữ kiện ↔ đáp án; học liệu ↔ nhiệm vụ; chỗ viết, ngắt trang và nội dung thực sự xuất hiện trong tài liệu.

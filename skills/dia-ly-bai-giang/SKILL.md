@@ -15,6 +15,7 @@ Quy trình gốc viết mới cho GeoTeacherSkills, bổ sung phương pháp đ�
 - Với yêu cầu chỉ có chủ đề, xác định mục tiêu và chuỗi hoạt động tối thiểu để xây bài trình chiếu; không mặc định phải tạo thêm một giáo án Word. Nếu cả hai sản phẩm được yêu cầu, phối hợp `dia-ly-giao-an` khi có.
 - Theo mẫu, phông, tỷ lệ màn hình, số slide hoặc yêu cầu hình ảnh được chỉ định. Nếu chưa có định hướng thiết kế, theo quy trình lựa chọn mẫu của skill Presentations; không tự bỏ qua bước mà công cụ đó yêu cầu.
 - Với “làm đẹp”, giữ nội dung và trình tự có ý nghĩa, kiểm tra các đối tượng, hình, biểu đồ, ghi chú và hiệu ứng liên quan; ghi rõ thay đổi nội dung được giáo viên đồng ý, nếu có.
+- Nếu phần chữ phải giữ có lỗi chuyên môn, giữ bản nguồn và chỉ ra lỗi cùng bản sửa đề xuất. Bản vẫn chứa kết luận sai trên màn hình phải được bàn giao rõ là chưa sẵn sàng dùng; sửa trong ghi chú không làm kết luận trên slide thành đúng. Không tự chuyển lỗi thành “câu hỏi bẫy” khi chưa thống nhất mục đích.
 
 ## 2. Lập bản thiết kế bài giảng
 

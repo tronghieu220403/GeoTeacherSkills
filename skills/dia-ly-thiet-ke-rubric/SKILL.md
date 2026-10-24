@@ -22,7 +22,10 @@ license: CC-BY-SA-4.0; see LICENSE.education and references/nguon.md.
 1. Ánh xạ mục tiêu → nhiệm vụ → bằng chứng → tiêu chí. Phân biệt kiến thức/kỹ năng Địa lý với kỹ năng trình bày, hợp tác hoặc sử dụng công nghệ; chỉ tính điểm các mục tiêu đã thống nhất.
 2. Chọn rubric phân tích từng tiêu chí hoặc rubric tổng thể theo mục đích và khối lượng chấm. Giải thích đánh đổi; không mặc định bốn tiêu chí, bốn mức hoặc luôn dùng rubric phân tích.
 3. Mô tả điều có thể quan sát trong sản phẩm tại mỗi mức. Nhãn “tốt/khá” chỉ là tên mức, không thay được mô tả. Các mức liền kề phải phân biệt được bằng chất lượng thực hiện; chỉ đếm số ý khi số lượng thực sự là yêu cầu.
+   - Mức có điểm dương phải đòi hỏi minh chứng đạt cụ thể; “còn nhầm/sai” không tự đủ điều kiện nhận điểm. Thử cả bài không có minh chứng đúng để kiểm tra ranh giới với 0.
+   - Phân biệt mức bằng nội dung và quan hệ lập luận, không bằng độ dài, từ nối “vì/do đó” hoặc việc nhắc lại nhận xét. Câu ngắn, ký hiệu hoặc bảng có quan hệ rõ có thể cung cấp cùng minh chứng với đoạn văn dài.
 4. Giữ tiêu chí đủ tách biệt, tránh cho điểm hai lần cùng bằng chứng. Thống nhất trọng số, điểm/mức được phép, nhánh thay thế, điểm trần và quy tắc khi bằng chứng nằm giữa các mức; không tự nội suy điểm.
+   - Với thang chọn mức cao nhất đủ điều kiện, mức 0 chỉ áp khi không đạt điều kiện của mức điểm dương nào. Không để ô 0 phủ luôn tình huống đã được ô 1/2 cho điểm; viết lại điều kiện thay vì chỉ dựa vào thứ tự xét để che mâu thuẫn.
 5. Cùng giáo viên thử các mẫu ranh giới và cách làm khác hợp lệ. Ghi quyết định hiệu chuẩn và quy tắc chưa chốt. Chỉ gọi mẫu là giả lập trừ khi có bài thật được phép dùng.
 6. Rà mục tiêu bị bỏ sót, tiêu chí không liên quan, rào cản tiếp cận và khả năng hai người chấm hiểu khác nhau. Phân biệt nhận định thiết kế với độ tin cậy đã được đo; không chứng nhận hiệu quả bằng nhãn nghiên cứu trong nguồn.
 

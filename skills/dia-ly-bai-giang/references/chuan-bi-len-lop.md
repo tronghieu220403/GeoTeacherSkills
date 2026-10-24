@@ -8,5 +8,5 @@
 - Dùng chuỗi: nhiệm vụ thật → câu trả lời gần đúng giả lập → lỗi có thể mắc → dấu hiệu/câu hỏi kiểm tra → hỗ trợ → minh chứng sau hỗ trợ. Tách tình huống giả lập khỏi quan sát học sinh thật. Chỉ rõ lỗi chuyên môn khi có căn cứ.
 - Theo dõi đáp án nằm trên slide, slide sau hay ghi chú; không tập theo một hiệu ứng chưa kiểm tra hoặc khẳng định đã trình chiếu chỉ vì đã đọc slide. Nếu cần, đề xuất cách tách câu hỏi/đáp án đơn giản hơn.
 - Cho giáo viên biết có thể dừng; chỉ đề xuất bước tiếp theo cụ thể khi có ích. Không tự kéo dài sang toàn bộ bài.
-- Lưu ghi chú riêng, thường khoảng 200–300 từ theo nhu cầu, theo thứ tự hoạt động/slide: nhiệm vụ trọng tâm, lỗi giả lập, câu hỏi/hỗ trợ đã chốt và việc cần kiểm tra. Hỏi phần cần chỉnh nhưng vẫn bàn giao ghi chú hiện có.
+- Lưu ghi chú riêng, thường khoảng 200–300 từ theo nhu cầu, theo thứ tự hoạt động/slide: nhiệm vụ trọng tâm, lỗi giả lập, câu hỏi/hỗ trợ đã chốt và việc cần kiểm tra. Có thể hỏi phần cần chỉnh nếu giáo viên chưa yêu cầu dừng; khi họ nói kết thúc, bàn giao ghi chú hiện có và dừng, không mở câu hỏi mới.
 - Nếu đã có hồ sơ chuẩn bị từ giáo án, tiếp tục cùng hồ sơ và quyết định đó. Chỉ sửa hoặc xuất lại PowerPoint nếu đã được yêu cầu; không tự đưa đáp án/gợi ý riêng của giáo viên sang bản phát học sinh.

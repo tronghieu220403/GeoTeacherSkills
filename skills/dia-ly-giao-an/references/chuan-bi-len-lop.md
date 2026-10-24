@@ -27,4 +27,4 @@ Ví dụ giả lập: học sinh lấy chênh lệch hai tỷ trọng rồi gọ
 
 Lưu `ghi-chu-chuan-bi.md` hoặc định dạng giáo viên yêu cầu cùng công việc, thường khoảng 200–300 từ, linh hoạt theo nhu cầu. Theo thứ tự hoạt động của bài, ghi nhiệm vụ then chốt, hiểu lầm dự kiến, câu hỏi/gợi ý đã chốt và việc còn cần kiểm tra; kèm mã slide khi có. Phân biệt giả lập, quan sát thật và quyết định giáo viên.
 
-Hỏi giáo viên có cần chỉnh ghi chú nào không, nhưng vẫn bàn giao bản đã có; không tự đặt một cổng duyệt bắt buộc cho việc nhận ghi chú. Không sửa giáo án, ghi chú PowerPoint hoặc xuất lại tệp nếu giáo viên chỉ yêu cầu cùng chuẩn bị cách dạy.
+Nếu giáo viên chưa yêu cầu dừng, có thể hỏi họ cần chỉnh ghi chú nào; vẫn bàn giao bản đã có, không tự đặt một cổng duyệt bắt buộc. Khi họ nói dừng/kết thúc, lưu ghi chú và kết thúc, không mở thêm câu hỏi. Không sửa giáo án, ghi chú PowerPoint hoặc xuất lại tệp nếu giáo viên chỉ yêu cầu cùng chuẩn bị cách dạy.

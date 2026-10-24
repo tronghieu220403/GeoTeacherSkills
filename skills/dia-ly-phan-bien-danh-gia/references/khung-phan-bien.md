@@ -25,6 +25,8 @@ Mục tiêu nào không có bằng chứng, mục tiêu nào bị đánh giá l�
 
 Hai người chấm có thể chỉ cùng minh chứng và chọn cùng mức không? Có khoảng điểm không có quy tắc, tiêu chí chồng lấn, đáp án hợp lệ bị bỏ hoặc lỗi làm tròn không? Điều kiện in màu, thiết bị, cách giao nhiệm vụ và thời gian có khác nhau theo cách ảnh hưởng kết quả không?
 
+Khi rà rubric, thử phản ví dụ ở ranh giới: bài không có minh chứng đúng có nhận điểm dương không; hai câu tương đương nội dung có bị chấm khác chỉ vì dài/ngắn hoặc từ nối không; đáp án gộp có chứng minh đủ điều kiện cho từng thành phần không. Đối chiếu cả câu lệnh với barem: yêu cầu trình bày phép tính hoặc giải thích có vai trò gì trong điểm, hay chỉ là hướng dẫn không chấm. Dẫn ô/câu và phản ví dụ cụ thể khi phát hiện mâu thuẫn.
+
 Chỉ nêu rủi ro nếu chưa có bài thật. Nếu được cung cấp dữ liệu chấm đôi hoặc kết quả thử nghiệm, phân tích theo phạm vi được yêu cầu, ghi cách tính và giới hạn; không suy ra hệ số đo lường từ lời nhận xét.
 
 ### 4. Tác động đến việc học và khả năng tiếp cận

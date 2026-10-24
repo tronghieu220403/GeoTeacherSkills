@@ -5,6 +5,7 @@ Dùng mẫu sau hoặc định dạng tương đương. Lưu với hồ sơ kỳ
 ## Thông tin lần chấm
 
 - Mã lần chấm, mã bài ẩn danh, mã đề.
+- Mã lô, danh sách bài trong lô và phạm vi áp dụng của từng phụ lục/quyết định; tách bài của yêu cầu khác.
 - Tham chiếu/phiên bản đề, barem, phụ lục và tệp bài làm; dấu vân tay tệp nếu có.
 - Căn cứ giáo viên chỉ định dùng barem, mẫu neo và phê duyệt hiệu chuẩn nếu có.
 - Số trang đã nhận, phần đọc được, thiếu trang hoặc phần chưa xác minh.
@@ -32,6 +33,8 @@ Với rubric tổng thể, giữ một dòng cho mức tổng thể và dẫn m�
 |---|---|---|---|---|---|---|
 
 Nếu còn câu/ý chờ xử lý, hai cột tổng điểm cuối để trống. Điểm đã xác định là tổng phần đã chấm có căn cứ, không phải điểm cuối. Nếu cần bảng theo câu, giữ cùng nguyên tắc null và trạng thái.
+
+Tổng tính toán đủ căn cứ vẫn được ghi dù đang chờ giáo viên duyệt; trạng thái duyệt là trường riêng. Nếu giáo viên đã quyết định điểm cụ thể, thêm cột mức/khoảng AI xác định, điểm do giáo viên quyết định, điểm trước/sau làm tròn và tham chiếu lời chỉ định. Không ghi điểm giáo viên quyết định thành điểm AI suy ra từ một barem còn thiếu quy tắc.
 
 ## Phiếu xin quyết định
 
