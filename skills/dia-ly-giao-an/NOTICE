@@ -1,0 +1,16 @@
+Copyright 2026 Anthropic, PBC
+Copyright 2026 Learning Commons
+
+GeoTeacherSkills adaptation, 2026-10-24:
+This package selectively adapts k12-lesson-plan-creation from
+learning-commons-org/agent-skills, commit
+8b0599c244696d9a8e6978dd58a426f475f37c45.
+Instructions were rewritten in Vietnamese for geography lesson planning,
+Vietnamese curriculum and teacher templates, and available Codex document tools.
+The upstream authors do not endorse this adaptation.
+See references/nguon-va-dieu-chinh.md for source files and change details.
+
+Additional 2026-10-24 adaptation from k12-lesson-prep, same upstream commit:
+Added teacher-requested lesson rehearsal and concrete misconception/support
+notes. See references/nguon-bo-sung.md for the separately identified assessment
+additions from Gareth Manning (CC BY-SA 4.0) and their licence notice.
